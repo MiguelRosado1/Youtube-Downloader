@@ -10,3 +10,6 @@ Since i couldn´t find any good youtube download apps, i said to myself, "What i
 3. paste it
 4. wait a few seconds
 5. and there you have it and .mp3/mp4 file
+
+### Tip
+use pyinstaller to convert it to exe and make it easier to run it!
