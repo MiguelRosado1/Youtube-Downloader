@@ -11,5 +11,5 @@ Since i couldn´t find any good youtube download apps, i said to myself, "What i
 4. wait a few seconds
 5. and there you have it and .mp3/mp4 file
 
-#OUTDATED
-##NEW VERSION WITH GUI OUT
+# OUTDATED
+## NEW VERSION WITH GUI OUT
